@@ -1,0 +1,5 @@
+languageCode = "nb-no"
+title = "Valset Marina"
+baseURL = "http://valsetmarina.no/"
+publishDir = "public"
+theme = "landing-page-hugo"

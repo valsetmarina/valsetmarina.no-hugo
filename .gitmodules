@@ -1,0 +1,6 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:valsetmarina/valsetmarina.github.io.git
+[submodule "themes/landing-page-hugo"]
+	path = themes/landing-page-hugo
+	url = https://github.com/crakjie/landing-page-hugo.git
